@@ -2,6 +2,10 @@
 
 Zumiez sale data web scraper and barcode scanner (using Google ML Kit) for immediate recall of promotions on the sales floor and during check out.
 
+
+https://github.com/vmikelic/zumiez_barcode_scanner/assets/89425625/ce3c53b9-1eae-4d77-86ab-e0a00da91000
+
+
 ## ML Kit
 
 * [Documentation](https://developers.google.com/ml-kit/guides)
